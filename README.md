@@ -1,12 +1,12 @@
-# ConnectExpress 🚂
+# Express Link 🚂
 
 > A platform that helps travelers find the best train routes by analyzing schedules and predicting delays ensuring smooth journeys during busy times.
 
 ## Overview
-ConnectExpress is an intelligent railway route finder that specializes in discovering multi-leg journey options when direct trains aren't available. Using historical delay patterns and machine learning, it provides smart connection suggestions with risk assessment, making train travel planning more efficient during peak seasons.
+Express Link is an intelligent railway route finder that specializes in discovering multi-leg journey options when direct trains aren't available. Using historical delay patterns and machine learning, it provides smart connection suggestions with risk assessment, making train travel planning more efficient during peak seasons.
 
 ## 🎯 Problem Statement
-During peak travel seasons (like festivals), getting direct train tickets between major cities becomes challenging. While alternative routes with connections exist, current booking platforms don't show these options. ConnectExpress solves this by:
+During peak travel seasons (like festivals), getting direct train tickets between major cities becomes challenging. While alternative routes with connections exist, current booking platforms don't show these options. Express Link solves this by:
 
 1. Finding alternative routes with connections
 2. Assessing the reliability of connections using historical data
@@ -39,8 +39,8 @@ Due to the unavailability of official IRCTC API and data, we have used simulated
 0. Fork the repository
 1. Clone the repository
 ```sh
-https://github.com/TechWizard9999/ConnectExpress
-cd connectexpress
+https://github.com/TechWizard9999/Express Link
+cd Express Link
 ```
 
 2. Install backend dependencies
@@ -85,7 +85,7 @@ The application will be available at `http://localhost:3000`
 
 ## 🏗️ Project Structure
 ```
-connectexpress/
+Express Link/
 ├── backend/
 │   ├── config/
 │   │   └── database.js
